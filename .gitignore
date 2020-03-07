@@ -6,6 +6,5 @@ local_settings.py
 db.sqlite3
 /media
 venv
-app/secrets.py
 /static
 .vscode
